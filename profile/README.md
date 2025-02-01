@@ -1,6 +1,6 @@
 # Antlers Labs
 
-![Antlers Labs Logo](./resources/BANNER.jpg) 
+![Antlers Labs Logo](../resources/BANNER.jpg) 
 
 ## About Us
 
